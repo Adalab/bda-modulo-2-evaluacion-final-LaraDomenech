@@ -1,7 +1,7 @@
 # bda-modulo-2-evaluacion-final-LaraDomenech
 bda-modulo-2-evaluacion-final-LaraDomenech created by GitHub Classroom
 
-Este repositorio contiene el proyecto correspondiente al Examen Final del Módulo 2, en él se incluyen las consultas SQL correspondientes centradas en la base de datos Sakila.Las tablas de esta base de datos, contienen información sobre películas, actores, clientes, alquileres y más, y se utilizan para realizar consultas y análisis de datos en el contexto de una tienda de alquiler de películas.
+Este repositorio contiene el proyecto correspondiente al Examen Final del Módulo 2, en él se incluyen las **consultas SQL** correspondientes centradas en la base de datos **Sakila**. Las tablas de esta base de datos, contienen información sobre películas, actores, clientes, alquileres y más, y se utilizan para realizar consultas y análisis de datos en el contexto de una tienda de alquiler de películas.
 
 ## Ejercicios:
 
@@ -31,6 +31,6 @@ Este repositorio contiene el proyecto correspondiente al Examen Final del Módul
 
 ### BONUS
 
-24. BONUS: Encuentra el título de las películas que son comedias y tienen una duración mayor a 180 minutos en la tabla film con subconsultas.
-25. BONUS: Encuentra todos los actores que han actuado juntos en al menos una película. La consulta debe mostrar el nombre y apellido de los actores y el número de películas en las que han actuado juntos. Pista: Podemos hacer un JOIN de una tabla consigo misma, poniendole un alias diferente.
+24. Encuentra el título de las películas que son comedias y tienen una duración mayor a 180 minutos en la tabla film con subconsultas.
+25. Encuentra todos los actores que han actuado juntos en al menos una película. La consulta debe mostrar el nombre y apellido de los actores y el número de películas en las que han actuado juntos. Pista: Podemos hacer un JOIN de una tabla consigo misma, poniendole un alias diferente.
 
